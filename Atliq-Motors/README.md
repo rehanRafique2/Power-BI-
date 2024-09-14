@@ -1,1 +1,0 @@
-Atliq-Motors/README.md
